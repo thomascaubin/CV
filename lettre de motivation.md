@@ -1,6 +1,4 @@
-# CV
-curriculum vitae &amp; lettre de motivation
-
+# lettre de motivation
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non sodales ante. Mauris lectus purus, vehicula ut dolor at, malesuada bibendum ex. Donec rhoncus ultricies est sit amet molestie. Nullam sed bibendum risus. Nullam orci dui, dictum id purus non, tempor aliquet quam. Donec egestas ex vel mi sodales vestibulum. Sed enim nisi, mattis sed fermentum quis, tincidunt at nunc. Morbi sed interdum est. Nulla gravida varius tellus, at faucibus nibh lobortis tempus. Fusce congue diam sed consectetur hendrerit. Suspendisse iaculis nisi augue, id aliquam arcu tempus eget. Donec non arcu diam.
 
