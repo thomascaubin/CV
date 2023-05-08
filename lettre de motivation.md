@@ -11,3 +11,4 @@ Je serais ravi de discuter de ma candidature plus en détail et de vous explique
 Je vous remercie sincèrement de l'attention que vous porterez à ma candidature. Dans l'attente de votre réponse, veuillez recevoir, [Nom du recruteur ou de l'entreprise], mes salutations respectueuses.
 Cordialement,
 Thomas Caubin
+![DSC01121](https://user-images.githubusercontent.com/103220218/236794317-25949f3c-e38a-447c-9115-a1a014ac5e46.jpg)
